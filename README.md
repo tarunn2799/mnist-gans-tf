@@ -8,6 +8,9 @@ Visualization of the training loss faced when trained using cGAN
 
 ![alt text](https://github.com/znxlwm/tensorflow-MNIST-cGAN-cDCGAN/raw/master/MNIST_cGAN_results/MNIST_cGAN_train_hist.png "Training Loss")
 
+Sample Output: 
+
+
 ```python
 training start!
 [1/100] - ptime: 4.36 loss_d: 0.825, loss_g: 0.997
